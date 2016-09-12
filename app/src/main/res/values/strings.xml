@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="empty_news_list">No news have been loaded yet.</string>
+</resources>
